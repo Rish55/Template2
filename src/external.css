@@ -1,7 +1,6 @@
 *{
     margin: 0%;padding: 0%;
 }
-
 #header{
     background-color: lightgray;
     font-size: 30px;
@@ -18,7 +17,6 @@ h2{
     background-color: black;
     overflow: hidden;
     list-style-type: none;
-
 }
 #head li a{
     color: white;
@@ -30,5 +28,17 @@ h2{
     float: left;
     border-right: 1px solid white;
     list-style-type: none;
-    
+}
+#content p{
+    max-width: 800px;
+    margin-left: 30px;
+}
+#aside{
+    float: right;
+    width: 28%;
+    background-color: lightgrey;
+   margin-top: -351px;
+   padding-bottom: 403px;
+   padding-left: 20px;
+   padding-top: 20px;
 }
