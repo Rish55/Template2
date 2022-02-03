@@ -66,3 +66,15 @@ h3
     float: right;
     padding: 2% 4% 2% 1%;
 }
+#footer
+{
+    background-color: lightgray;
+    overflow: hidden;
+    padding-right: 2%;
+}
+#footer p
+{
+    float: right;
+    padding: 30px 10px;
+    padding-top: 5%;
+}
