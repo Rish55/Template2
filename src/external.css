@@ -37,8 +37,14 @@ h2{
     float: right;
     width: 28%;
     background-color: lightgrey;
-   margin-top: -351px;
-   padding-bottom: 403px;
-   padding-left: 20px;
-   padding-top: 20px;
+    margin-top: -351px;
+    padding-bottom: 365px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+footer{
+    background-color: lightgrey;
+    padding: 20px;
+    text-align: right;
+    margin-top: 126px;
 }
